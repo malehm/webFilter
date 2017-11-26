@@ -1,0 +1,13 @@
+#filter list by malehm
+
+clicktale.net
+decibelinsight.net
+fullstory.com
+hotjar.com
+inspectlet.com
+mouseflow.com
+quantummetric.com
+sessioncam.com
+smartlook.com
+userreplay.net
+yandex.ru
